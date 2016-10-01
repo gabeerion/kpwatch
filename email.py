@@ -1,0 +1,1 @@
+# email.py -- reads a database of user info and sends emails if Kp is high enough for their area
